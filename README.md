@@ -1,14 +1,28 @@
-# Hi, I'm Legasheenee! 👋
+<div align="center">
 
-🎓 Final-year Computer Science (Database Management) student at **Universiti Teknikal Malaysia Melaka (UTeM)**  
-📊 Passionate about data management, SQL analytics & full-stack development  
-🌱 Currently working on: **AyamTech** — Broiler Chicken Farm Management System (FYP)  
-📍 Kulim, Kedah, Malaysia  
-📫 Reach me: legasheeneej@gmail.com  
+# Hi 👋, I'm Legasheenee
+
+**Computer Science (Database Management) Student @ UTeM Melaka**
+
+📍 Kulim, Kedah, Malaysia &nbsp;|&nbsp; 📫 legasheeneej@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/legasheenee-jagathisan-44762a289/)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
+
+Final-year Computer Science (Database Management) student at Universiti Teknikal Malaysia Melaka (UTeM), passionate about database-driven systems, SQL analytics, and full-stack web development. Experienced in designing relational databases, building data reporting dashboards, and developing web applications. Currently completing my Final Year Project — AyamTech, a database-driven decision support system for broiler chicken farm management.
+
+📍 Kulim, Kedah, Malaysia &nbsp;|&nbsp; 📫 legasheeneej@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/legasheenee-jagathisan-44762a289/)
+
+---
+
+### 🛠️ Tech Stack
 
 **Database**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -34,18 +48,17 @@
 
 ---
 
-## 🏆 Achievements
+### 🏆 Achievements
 - 🥈 Silver Award — Workshop II Innovation Competition, FTMK UTeM (2026)
 - 📚 Dean's List — 5 Consecutive Semesters (CGPA: 3.88)
-- 🏅 Oracle Academy — Database Foundations Certification
 - 📊 DataCamp — Introduction to Statistics in R
 - 🗺️ Esri — ArcGIS Pro Basics & GIS Basics
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 ![Legasheenee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lxga18&show_icons=true&theme=default&hide_border=true)
 
 ---
 
-⭐ *"Turning data into decisions"*
+*"Turning data into decisions"* ⭐
