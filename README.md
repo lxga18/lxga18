@@ -56,11 +56,12 @@ Final-year Computer Science (Database Management) student at Universiti Teknikal
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 
-![Legasheenee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lxga18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxga18&layout=compact&theme=tokyonight&hide_border=true)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
 ---
 
